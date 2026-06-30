@@ -170,6 +170,12 @@ Then this section can display them:
 
 ![Association Result](Images/06_association_result.png)
 
+## Demo Video
+
+The demo video is available here:
+
+[Watch demo video]https://drive.google.com/file/d/1D8q9ddNQuYSumWfka-lcZ2onRrRovK09/view?usp=drive_link
+
 ## Technologies
 
 - Python
