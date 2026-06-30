@@ -148,27 +148,27 @@ Then this section can display them:
 
 ### Original Image
 
-![Original](images/01_original.png)
+![Original](Images/01_original.png)
 
 ### Enhanced Image
 
-![Enhanced](images/02_enhanced.png)
+![Enhanced](Images/02_enhanced.png)
 
 ### Segmentation Mask
 
-![Segmentation Mask](images/03_segmentation_mask.png)
+![Segmentation Mask](Images/03_segmentation_mask.png)
 
 ### Clean Mask
 
-![Clean Mask](images/04_clean_mask.png)
+![Clean Mask](Images/04_clean_mask.png)
 
 ### Detection Result
 
-![Detected Price Tags](images/05_detected_price_tags.png)
+![Detected Price Tags](Images/05_detected_price_tags.png)
 
 ### Final Association Result
 
-![Association Result](images/06_association_result.png)
+![Association Result](Images/06_association_result.png)
 
 ## Technologies
 
