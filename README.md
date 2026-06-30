@@ -136,12 +136,12 @@ After running the notebook, copy the generated images from `cv_project_outputs` 
 Recommended image names:
 
 ```text
-images/01_original.png
-images/02_enhanced.png
-images/03_segmentation_mask.png
-images/04_clean_mask.png
-images/05_detected_price_tags.png
-images/06_association_result.png
+Images/01_original.png
+Images/02_enhanced.png
+Images/03_segmentation_mask.png
+Images/04_clean_mask.png
+Images/05_detected_price_tags.png
+Images/06_association_result.png
 ```
 
 Then this section can display them:
